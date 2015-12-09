@@ -173,3 +173,5 @@ $index = new Index();
 $index->init();
 // run application!
 $index->run();
+
+echo 'hello';
